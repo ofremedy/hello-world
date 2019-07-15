@@ -1,2 +1,3 @@
+print "Olá mundo!"
 # hello-world
 INICIANDO...
